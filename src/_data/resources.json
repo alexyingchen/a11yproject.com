@@ -2108,5 +2108,10 @@
 			"additional": "Max Antonucci",
 			"url": "https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope"
 		}
+		{
+			"title": "Access Guide",
+			"description": "A friendly introduction to digital accessibility based on WCAG 2.1 (Web Content Accessibility Guidelines).",
+			"additional": "Alex Chen",
+		"url": "https://accessguide.io/"
 	]
 }
